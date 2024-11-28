@@ -25,6 +25,21 @@ NIM   : 09030282327047
 ##### terlihat sangat jelas jika proses berhasil akan mengeluarkan sebuah output yang bertuliskan
 ###### sebuah gambar yang di simpan di storage lokal dengan durasi pemrosesan 0,0064 detik.
 ##### dengan hasil gambar sebagai berikut
+![Logo](images/hasilmpi.jpg)
+#
+#
+### PYTHON Multiprocessing
+###### Python Multiprocessing adalah fitur yang memungkinkan Anda untuk menjalankan beberapa proses secara bersamaan (paralel), yang sangat berguna untuk tugas-tugas yang memerlukan banyak komputasi atau I/O, seperti pengolahan gambar. Dengan menggunakan multiprocessing, Anda bisa memanfaatkan beberapa core prosesor di komputer Anda untuk mempercepat proses pengolahan gambar, yang biasanya memerlukan waktu lama jika dilakukan secara serial (satu per satu).
+
+### Cara Menggunakan PYTHON Multiprocessing
+##### Langkah 1: Buka terminal linux
+##### Langkah 2: Install Pillow (jika belum terpasang)dengan menjalankan ( pip install Pillow )
+##### Langkah 3: Buat lah program lalu jadikan script dengan menjalankan ( nano perbandingan_pyhton.py )
+###### seperti pada gambar
+![Logo](images/code-mpi.jpg)
+
+
+
 
 
 
