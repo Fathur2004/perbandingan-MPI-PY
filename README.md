@@ -49,9 +49,12 @@ NIM   : 09030282327047
 ##### dengan hasil gambar sebagai berikut
 ![Logo](images/hasilpy.jpg)
 #
-#
+# kesimpulan dari hasil perbadingan kedua proses tersebut
+###### Dapat disimpulkan bahwa antara kedua metode pemrosesan gambar yang digunakan, yaitu Open MPI dan Python Multiprocessing, terdapat perbedaan signifikan dalam hal kecepatan dan kualitas hasil. Proses menggunakan Open MPI, dengan durasi waktu pemrosesan hanya 0,0064 detik, ternyata lebih cepat. Namun, meskipun prosesnya sangat efisien dan dapat menyelesaikan tugas dengan waktu yang sangat singkat, hasil gambar yang dihasilkan menjadi tidak teratur. Ukuran gambar yang dihasilkan cenderung sedikit membesar atau tidak sesuai dengan ukuran yang diinginkan, sehingga menghasilkan ketidakteraturan dalam proses pengolahan gambar tersebut.
 
+###### Di sisi lain, meskipun proses yang dilakukan menggunakan Python Multiprocessing sedikit lebih lambat, dengan durasi sekitar 0,03 detik, hasil gambar yang dihasilkan lebih memuaskan dalam hal kualitas. Gambar-gambar yang diproses menggunakan Python Multiprocessing tetap mempertahankan ukuran yang tepat dan teratur, sesuai dengan yang diinginkan. Meskipun durasi pemrosesannya lebih lama, keuntungan yang didapatkan adalah kualitas gambar yang lebih terkontrol dan sesuai dengan spesifikasi yang ditetapkan, tanpa adanya perubahan ukuran yang tidak diinginkan.
 
+###### Dengan kata lain, Open MPI memberikan keuntungan dalam hal kecepatan pemrosesan, tetapi dengan kompromi pada kualitas hasil gambar, sedangkan Python Multiprocessing memberikan hasil yang lebih konsisten dan teratur, meskipun membutuhkan waktu pemrosesan yang lebih lama. Pemilihan antara keduanya bergantung pada prioritas pengguna, apakah kecepatan atau kualitas hasil yang lebih diutamakan dalam pengolahan gambar tersebut.
 
 
 
