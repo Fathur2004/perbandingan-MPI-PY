@@ -36,7 +36,21 @@ NIM   : 09030282327047
 ##### Langkah 2: Install Pillow (jika belum terpasang)dengan menjalankan ( pip install Pillow )
 ##### Langkah 3: Buat lah program lalu jadikan script dengan menjalankan ( nano perbandingan_pyhton.py )
 ###### seperti pada gambar
-![Logo](images/code-mpi.jpg)
+![Logo](images/code-py.jpg)
+
+
+##### Langkah 4: lalu run program tersebut dengan menjalankan ( pyhton3 perbandingan_pyhton.py )
+###### seperti pada gambar
+![Logo](images/runpy.jpg)
+
+
+##### terlihat sangat jelas jika proses berhasil akan mengeluarkan sebuah output yang bertuliskan
+###### sebuah gambar yang di simpan di storage lokal dengan durasi pemrosesan 0,03 detik.
+##### dengan hasil gambar sebagai berikut
+![Logo](images/hasilpy.jpg)
+#
+#
+
 
 
 
