@@ -15,8 +15,16 @@ NIM   : 09030282327047
 ##### Langkah 5: Buat lah program lalu jadikan script dengan menjalankan ( nano mpi_image,py )
 ###### seperti pada gambar
 ![Logo](images/code-mpi.jpg)
+
+
 ##### Langkah 6: lalu run program tersebut dengan menjalankan ( mpirun -n 1 pyhton3 mpi_image.py )
 ###### seperti pada gambar
+![Logo](images/runmpi.jpg)
+
+
+##### terlihat sangat jelas jika proses berhasil akan mengeluarkan sebuah output yang bertuliskan
+###### sebuah gambar yang di simpan di storage lokal dengan durasi pemrosesan 0,0064 detik.
+##### dengan hasil gambar sebagai berikut
 
 
 
