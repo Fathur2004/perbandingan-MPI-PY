@@ -14,6 +14,12 @@ NIM   : 09030282327047
 ##### Langkah 4: Pilih Pustaka MPI untuk Instalasi dengan menjalankan ( sudo apt install openmpi-bin libopenmpi-dev -y ) dan ( sudo apt install mpich libmpich-dev -y )
 ##### Langkah 5: Buat lah program lalu jadikan script dengan menjalankan ( nano mpi_image,py )
 ###### seperti pada gambar
+![Logo](images/code-mpi.jpg)
+##### Langkah 6: lalu run program tersebut dengan menjalankan ( mpirun -n 1 pyhton3 mpi_image.py )
+###### seperti pada gambar
+
+
+
 
 
 
