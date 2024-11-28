@@ -4,4 +4,5 @@ NIM   : 09030282327047
 
 PERBANDINGAN DALAM MENGEDIT SEBUAH GAMBAR MENJADI GRAYSCALE DALAM MENGGUNAKAN MPI LINUX DAN PYHTON LINUX  
 
-MPI (Message Passing Interface)
+MPI (Message Passing Interface)  
+<small>Ini adalah teks kecil.</small>
