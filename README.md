@@ -1,2 +1,6 @@
+NAMA  : Fathur Rahman
+KELAS : TK3C
+NIM   : 09030282327047
+
 PERBANDINGAN DALAM MENGEDIT SEBUAH GAMBAR MENJADI GRAYSCALE DALAM MENGGUNAKAN MPI LINUX DAN PYHTON LINUX
-<div style="text-align: right;"> MPI (Message Passing Interface) </div>
+MPI (Message Passing Interface)
